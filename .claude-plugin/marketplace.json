@@ -1,17 +1,17 @@
 {
-  "name": "ffwd-sector-tools",
+  "name": "ai-product-studio",
   "owner": {
     "name": "Fast Forward",
     "url": "https://ffwd.org"
   },
   "metadata": {
-    "description": "Fast Forward Sector Tools: coaches for tech nonprofit builders."
+    "description": "AI Product Studio by Fast Forward. Pressure-test a product idea before you build it. Three stages take a non-technical founder from a story to a build-ready PRD in about fifteen minutes, with the assumptions to test named along the way."
   },
   "plugins": [
     {
       "name": "ai-product-studio",
-      "source": "./plugins/ai-product-studio",
-      "description": "AI Product Studio by Fast Forward. Pressure-test a product idea before you build it. Three stages take a non-technical founder from a story to a build-ready PRD in about fifteen minutes, with the bets named along the way."
+      "source": "./",
+      "description": "AI Product Studio by Fast Forward. Pressure-test a product idea before you build it. Three stages take a non-technical founder from a story to a build-ready PRD in about fifteen minutes, with the assumptions to test named along the way."
     }
   ]
 }

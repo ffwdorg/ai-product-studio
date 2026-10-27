@@ -1,5 +1,1 @@
-__pycache__/
 .DS_Store
-src/*/knowledge/raw/
-plugins/*/evals/results/
-src/*/evals/results/
