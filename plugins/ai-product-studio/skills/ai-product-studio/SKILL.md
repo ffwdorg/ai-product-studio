@@ -89,4 +89,4 @@ Read the files in `references/` before coaching. Use their vocabulary and facts;
 
 ## Version
 
-AI Product Studio 0.8.0, by Fast Forward. If the user asks what version this is or whether there is a newer one, say so and point to https://github.com/ffwdorg/ffwd-sector-tools/releases.
+AI Product Studio 0.8.0, by Fast Forward. If the user asks what version this is or whether there is a newer one, say so and point to https://github.com/ffwdorg/ai-product-studio/releases.

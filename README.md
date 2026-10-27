@@ -9,7 +9,7 @@ Built by [Fast Forward](https://ffwd.org), the accelerator for tech nonprofits.
 <!-- TOOLS:START -->
 | Tool | What it does | First command | Download |
 |---|---|---|---|
-| **AI Product Studio** | Pressure-test a product idea before you build it. Three stages take a non-technical founder from a story to a build-ready PRD in about fifteen minutes, with the bets named along the way. | **Idea** | [ai-product-studio.zip](https://github.com/ffwdorg/ffwd-sector-tools/raw/main/dist/ai-product-studio.zip) |
+| **AI Product Studio** | Pressure-test a product idea before you build it. Three stages take a non-technical founder from a story to a build-ready PRD in about fifteen minutes, with the bets named along the way. | **Idea** | [ai-product-studio.zip](https://github.com/ffwdorg/ai-product-studio/raw/main/dist/ai-product-studio.zip) |
 <!-- TOOLS:END -->
 
 Each tool is a set of prompts. You paste what you have, name a command or say what you want in plain words, and the coach works through it with you. More tools will join this repository as they finish testing.
@@ -33,7 +33,7 @@ Works on Free, Pro, Max, Team, and Enterprise plans. On Team and Enterprise, you
 In a terminal:
 
 ```
-claude plugin marketplace add ffwdorg/ffwd-sector-tools
+claude plugin marketplace add ffwdorg/ai-product-studio
 claude plugin install ai-product-studio@ffwd-sector-tools
 ```
 
@@ -78,7 +78,7 @@ Claude Code users get new versions by updating the marketplace, or automatically
 
 ## Help us improve
 
-Something fell flat, a prompt gave bad advice, a reference is out of date: email hello@ffwd.org or [open an issue](https://github.com/ffwdorg/ffwd-sector-tools/issues).
+Something fell flat, a prompt gave bad advice, a reference is out of date: email hello@ffwd.org or [open an issue](https://github.com/ffwdorg/ai-product-studio/issues).
 
 ## For Fast Forward staff
 
