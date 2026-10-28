@@ -5,7 +5,7 @@ license: CC-BY-4.0
 compatibility: "Runs in Claude, ChatGPT, or Gemini. Needs no tools, files, or network access."
 metadata:
   author: "Fast Forward"
-  version: "0.9.1"
+  version: "0.9.2"
   homepage: "https://www.ffwd.org"
   generatedBy: "Fast Forward's build; edit the source, not this file"
 ---
@@ -98,4 +98,4 @@ Read the files in `references/` before coaching. Use their vocabulary and facts;
 
 ## Version
 
-AI Product Studio 0.9.1, by Fast Forward. If the user asks what version this is or whether there is a newer one, say so and point to https://github.com/ffwdorg/ai-product-studio, where the latest download is always linked.
+AI Product Studio 0.9.2, by Fast Forward. If the user asks what version this is or whether there is a newer one, say so and point to https://github.com/ffwdorg/ai-product-studio, where the latest download is always linked.

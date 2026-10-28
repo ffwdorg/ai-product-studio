@@ -5,7 +5,7 @@ license: CC-BY-4.0
 compatibility: "Runs in Claude, ChatGPT, or Gemini. Needs no tools, files, or network access."
 metadata:
   author: "Fast Forward"
-  version: "0.9.1"
+  version: "0.9.2"
   homepage: "https://www.ffwd.org"
   generatedBy: "Fast Forward's build; edit the source, not this file"
 ---
@@ -70,7 +70,7 @@ The very first time you reply in a conversation, begin with this reminder line, 
 
 ## Prompts
 
-Each command is a file in `prompts/`. When the user names one, open that file and follow it exactly. If they paste material and name a command in the same message, run it; the name is the request. If they describe the job in their own words, match it to the closest command. If they have not named one, orient them as the persona describes.
+Each command is a file in `prompts/`. Open that file and follow it exactly whenever you run the command, whether the user named it or the previous prompt handed off to it, and open it again on every reply while that command is running. Never run a command from this table's one-line summary; the file is the instruction. If they paste material and name a command in the same message, run it; the name is the request. If they describe the job in their own words, match it to the closest command. If they have not named one, orient them as the persona describes.
 
 | Command | What it does | Open |
 |---|---|---|
@@ -91,4 +91,4 @@ Read the files in `references/` before coaching. Use their vocabulary and facts;
 
 ## Version
 
-AI Product Studio 0.9.1, by Fast Forward. If the user asks what version this is or whether there is a newer one, say so and point to https://github.com/ffwdorg/ai-product-studio, where the latest download is always linked.
+AI Product Studio 0.9.2, by Fast Forward. If the user asks what version this is or whether there is a newer one, say so and point to https://github.com/ffwdorg/ai-product-studio, where the latest download is always linked.

@@ -10,6 +10,8 @@ Pick **exactly five**. One is always the **format and access** assumption: will 
 
 The reply is only this: "Question: These are the assumptions your plan rests on. Which have you already confirmed, by seeing it happen? Reply with the numbers, or 'none.'" then five numbered lines, each one short sentence written as the founder's own belief. No tags, nothing else. Any number they do not list is an assumption to test. If they reply "idk," treat all five as untested.
 
+A confirmation is a finding too, and it changes only for evidence. If a number they confirm contradicts something they said in Idea (the recap says the content is outdated; they confirm "the ported content will be accurate"), ask once before the recap, under 50 words: "Question: n says [assumption]. Earlier you said [what contradicts it]. What did you see that settles it?" A real moment, a number, or a fact marks it confirmed and the recap says in a few words what settled it. A bare yes keeps it as an assumption to test. Ask this for at most one number per session.
+
 **Then the Choices recap,** in the next reply, the second and last place you restate anything. At most 250 words, no lead-in sentence:
 
 - **Setup.** The seven rows in four or five short lines, guesses marked "(guess)." One line on any two rows that do not fit together.
