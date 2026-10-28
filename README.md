@@ -64,6 +64,8 @@ Works at gemini.google.com and in the Gemini app on Mac.
 
 You need to be 18 or older with **Keep Activity** turned on. To update, upload the new zip again. Gemini cannot pull from GitHub.
 
+If Gemini replies that it cannot load the skill's instructions, you are signed in to a Google Workspace account whose admin has not allowed skills. Use a personal Google account, or ask your admin.
+
 ### ChatGPT
 
 Works on ChatGPT Business, Enterprise, Healthcare, and Edu. Free, Go, Plus, and Pro plans do not have skills yet.
