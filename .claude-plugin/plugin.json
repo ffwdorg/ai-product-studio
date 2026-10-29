@@ -1,7 +1,7 @@
 {
   "name": "ai-product-studio",
   "description": "AI Product Studio by Fast Forward. Pressure-test a product idea before you build it. Three stages take a non-technical founder from a story to a build-ready PRD in about fifteen minutes, with the assumptions to test named along the way.",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "author": {
     "name": "Fast Forward",
     "url": "https://ffwd.org"
